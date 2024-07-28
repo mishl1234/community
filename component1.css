@@ -19,7 +19,7 @@
 .rectangle-icon,
 .the-way-to-happiness-wrapper {
   position: absolute;
-  border-radius: var(--br-34xl);
+  border-radius: 53px;
   width: 405px;
   height: 234px;
 }
@@ -27,7 +27,7 @@
   top: 60px;
   left: 194px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
-  background-color: var(--color-royalblue);
+  background-color: rgba(35, 124, 251, 0.66);
 }
 .rectangle-icon {
   top: 0;
@@ -51,15 +51,15 @@
   left: 627px;
   width: 631px;
   height: 234px;
-  font-size: var(--font-size-31xl);
+  font-size: 50px;
 }
 .rectangle-div {
   position: absolute;
   top: 7px;
   left: 0;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
-  border-radius: var(--br-34xl);
-  background-color: var(--color-royalblue);
+  border-radius: 53px;
+  background-color: rgba(35, 124, 251, 0.66);
   width: 405px;
   height: 234px;
 }
@@ -103,14 +103,14 @@
 .frame-child1 {
   position: absolute;
   left: 0;
-  border-radius: var(--br-34xl);
+  border-radius: 53px;
   width: 405px;
   height: 234px;
 }
 .drug-free-world-wrapper {
   top: 450px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
-  background-color: var(--color-royalblue);
+  background-color: rgba(35, 124, 251, 0.66);
 }
 .frame-child1 {
   top: 0;
@@ -139,8 +139,8 @@
   top: 0;
   left: 8px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
-  border-radius: var(--br-34xl);
-  background-color: var(--color-royalblue);
+  border-radius: 53px;
+  background-color: rgba(35, 124, 251, 0.66);
 }
 .applied-scholastics1 {
   position: absolute;
@@ -201,39 +201,19 @@
   height: 688px;
   object-fit: cover;
 }
+.frame-child3,
 .frame-icon {
   position: absolute;
   top: 0;
-  left: 5px;
   width: 1873px;
+}
+.frame-icon {
+  left: 5px;
   height: 1290px;
   overflow: hidden;
 }
-.frame14,
-.how-we-help1 {
-  position: absolute;
-  width: 990px;
-}
-.how-we-help1 {
-  top: 913px;
-  right: 0;
-  line-height: 20.8px;
-  font-weight: 800;
-  display: flex;
-  align-items: center;
-  height: 135px;
-}
-.frame14 {
-  top: 0;
-  left: 366px;
-  height: 1048px;
-  overflow: hidden;
-}
 .frame-child3 {
-  position: absolute;
-  top: 0;
   left: 0;
-  width: 1873px;
   height: 128px;
 }
 .join-us2 {
@@ -254,8 +234,8 @@
   top: 1px;
   right: 363.6px;
   left: 1369px;
-  border-radius: var(--br-9xs);
-  border: 1px solid var(--color-whitesmoke-100);
+  border-radius: 4px;
+  border: 1px solid rgba(246, 246, 246, 0.39);
   box-sizing: border-box;
   height: 35px;
   cursor: pointer;
@@ -310,12 +290,12 @@
 .item-link15 {
   cursor: pointer;
 }
-.frame16,
+.frame15,
 .item-link15,
 .list2 {
   position: absolute;
 }
-.frame16 {
+.frame15 {
   top: 15px;
   left: 732.8px;
   width: 98.3px;
@@ -330,20 +310,18 @@
   height: 40px;
 }
 .container7,
-.frame15 {
+.frame14 {
   position: absolute;
   top: 81px;
   left: 0;
   width: 1815px;
   height: 38px;
 }
-.frame15 {
+.frame14 {
   top: 0;
   height: 119px;
   overflow: hidden;
   text-align: center;
-  font-size: var(--font-size-smi-8);
-  color: var(--color-white);
 }
 .global-social-betterment-container2 {
   position: absolute;
@@ -355,6 +333,28 @@
   width: 674px;
   height: 625px;
 }
+.frame16 {
+  position: absolute;
+  top: 0;
+  left: 1019px;
+  width: 674px;
+  height: 1298px;
+  overflow: hidden;
+  font-size: 50px;
+  color: #fffefe;
+  font-family: "Open Sans";
+}
+.how-we-help1 {
+  position: absolute;
+  top: 913px;
+  right: 0;
+  line-height: 20.8px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 990px;
+  height: 135px;
+}
 .frame17,
 .frame4,
 .frame7 {
@@ -363,12 +363,11 @@
   overflow: hidden;
 }
 .frame17 {
-  left: 1019px;
-  width: 674px;
-  height: 1298px;
-  font-size: var(--font-size-31xl);
-  color: var(--color-gray-100);
-  font-family: var(--font-open-sans);
+  left: 366px;
+  width: 990px;
+  height: 1048px;
+  font-size: 72px;
+  color: #000;
 }
 .frame4,
 .frame7 {
@@ -378,8 +377,7 @@
   left: 0;
   height: 1298px;
   text-align: left;
-  font-size: var(--font-size-53xl);
-  color: var(--color-black);
+  font-size: 12.8px;
 }
 .frame4 {
   left: -5px;
@@ -392,7 +390,7 @@
 .contact-us-email-container2 {
   position: absolute;
   top: 0;
-  left: calc(50% - 890.5px);
+  left: calc(50% - 891px);
   line-height: 25px;
   font-weight: 500;
   display: flex;
@@ -404,8 +402,8 @@
   position: absolute;
   top: 546px;
   left: 0;
-  width: 1881px;
-  height: 98px;
+  width: 1850px;
+  height: 77px;
   overflow: hidden;
 }
 .volunteer-ministers1 {
@@ -426,8 +424,8 @@
   top: 0;
   left: 720px;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
-  border-radius: var(--br-34xl);
-  background-color: var(--color-royalblue);
+  border-radius: 53px;
+  background-color: rgba(35, 124, 251, 0.66);
   width: 405px;
   height: 234px;
 }
@@ -475,16 +473,16 @@
 .frame20 {
   left: 0;
   width: 1535px;
-  font-size: var(--font-size-35xl);
-  color: var(--color-white);
+  font-size: 54px;
+  color: #fff;
 }
 .frame18 {
   top: 2344px;
   left: -5px;
   width: 1850px;
   height: 623px;
-  font-size: var(--font-size-base-8);
-  color: var(--color-black);
+  font-size: 16.8px;
+  color: #000;
 }
 .div2 {
   width: 100%;
@@ -493,7 +491,7 @@
   height: 2988px;
   overflow-y: auto;
   text-align: center;
-  font-size: var(--font-size-35xl);
-  color: var(--color-white);
-  font-family: var(--font-jost);
+  font-size: 54px;
+  color: #fff;
+  font-family: Jost;
 }

@@ -48,7 +48,7 @@
 }
 .child3 {
   top: 2871px;
-  background-color: var(--color-white);
+  background-color: #fff;
   width: 1891px;
   height: 117px;
 }
@@ -127,8 +127,8 @@
   top: 1px;
   right: 363.6px;
   left: 1369px;
-  border-radius: var(--br-9xs);
-  border: 1px solid var(--color-whitesmoke-100);
+  border-radius: 4px;
+  border: 1px solid rgba(246, 246, 246, 0.39);
   box-sizing: border-box;
   height: 35px;
   cursor: pointer;
@@ -145,16 +145,16 @@
 }
 .contact-us-email-container4 {
   position: absolute;
-  top: 2799px;
-  left: calc(50% - 906.5px);
-  font-size: var(--font-size-base-8);
+  top: 2809px;
+  left: calc(50% - 878.5px);
+  font-size: 16.8px;
   line-height: 25px;
   font-weight: 500;
-  color: var(--color-black);
+  color: #000;
   display: flex;
   align-items: center;
-  width: 1892px;
-  height: 104px;
+  width: 1816px;
+  height: 77px;
 }
 .container8 {
   top: 81px;
@@ -162,8 +162,8 @@
   width: 1815px;
   height: 38px;
   text-align: center;
-  font-size: var(--font-size-smi-8);
-  color: var(--color-white);
+  font-size: 12.8px;
+  color: #fff;
 }
 .child5,
 .child6,
@@ -173,7 +173,7 @@
 .child5 {
   top: 1474px;
   left: 1322px;
-  border-radius: var(--br-34xl);
+  border-radius: 53px;
   width: 405px;
   height: 234px;
 }
@@ -187,7 +187,7 @@
   top: 1923px;
   left: calc(50% - 74.5px);
   line-height: 35px;
-  font-family: var(--font-open-sans);
+  font-family: "Open Sans";
   width: 900px;
   height: 544px;
 }
@@ -203,8 +203,8 @@
   top: 767px;
   left: 839px;
   line-height: 35px;
-  font-family: var(--font-open-sans);
-  color: var(--color-white);
+  font-family: "Open Sans";
+  color: #fff;
   width: 703px;
   height: 422px;
 }
@@ -212,7 +212,7 @@
 .services {
   top: 873px;
   right: 432px;
-  font-size: var(--font-size-53xl);
+  font-size: 72px;
   line-height: 20.8px;
   font-weight: 800;
   width: 990px;
@@ -229,7 +229,7 @@
   height: 2988px;
   overflow-y: auto;
   text-align: left;
-  font-size: var(--font-size-7xl);
-  color: var(--color-black);
-  font-family: var(--font-jost);
+  font-size: 26px;
+  color: #000;
+  font-family: Jost;
 }

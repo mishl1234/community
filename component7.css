@@ -36,7 +36,7 @@
   top: 847px;
   right: 1210px;
   left: 310px;
-  border-radius: var(--br-9xs);
+  border-radius: 4px;
   height: 339.5px;
   overflow: hidden;
 }
@@ -55,7 +55,7 @@
   top: 847px;
   right: 760px;
   left: 760px;
-  border-radius: var(--br-9xs);
+  border-radius: 4px;
   height: 339.5px;
   overflow: hidden;
 }
@@ -87,7 +87,7 @@
   position: absolute;
   top: 1461px;
   left: 609px;
-  font-size: var(--font-size-5xl);
+  font-size: 24px;
   line-height: 24px;
   font-weight: 600;
   text-align: left;
@@ -106,9 +106,9 @@
   position: absolute;
   top: 1767px;
   left: calc(50% - 327.5px);
-  font-size: var(--font-size-base);
+  font-size: 16px;
   line-height: 24px;
-  font-family: var(--font-open-sans);
+  font-family: "Open Sans";
   text-align: left;
   display: flex;
   align-items: center;
@@ -192,8 +192,8 @@
   top: 1px;
   right: 363.6px;
   left: 1369px;
-  border-radius: var(--br-9xs);
-  border: 1px solid var(--color-whitesmoke-100);
+  border-radius: 4px;
+  border: 1px solid rgba(246, 246, 246, 0.39);
   box-sizing: border-box;
   height: 35px;
   cursor: pointer;
@@ -204,8 +204,8 @@
   left: 0;
   width: 1815px;
   height: 38px;
-  font-size: var(--font-size-smi-8);
-  color: var(--color-white);
+  font-size: 12.8px;
+  color: #fff;
 }
 .contact-us-email4 {
   margin: 0;
@@ -214,14 +214,14 @@
 .contact-us-email-container8 {
   position: absolute;
   top: 2890px;
-  left: calc(50% - 937.5px);
-  font-size: var(--font-size-base-8);
+  left: calc(50% - 908.5px);
+  font-size: 16.8px;
   line-height: 25px;
   font-weight: 500;
   display: flex;
   align-items: center;
-  width: 1873px;
-  height: 98px;
+  width: 1816px;
+  height: 77px;
 }
 .div8 {
   width: 100%;
@@ -231,6 +231,6 @@
   overflow-y: auto;
   text-align: center;
   font-size: 45px;
-  color: var(--color-black);
-  font-family: var(--font-jost);
+  color: #000;
+  font-family: Jost;
 }

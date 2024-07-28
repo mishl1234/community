@@ -21,7 +21,7 @@
 }
 .frame38 {
   top: 1270px;
-  background-color: var(--color-gray-200);
+  background-color: #1c0327;
   width: 1873px;
   height: 1720px;
 }
@@ -172,7 +172,7 @@
   left: 0;
   width: 711.5px;
   height: 757.5px;
-  font-size: var(--font-size-45xl);
+  font-size: 64px;
   color: #560000;
 }
 .frame37 {
@@ -188,7 +188,7 @@
   height: 2988px;
   overflow-y: auto;
   text-align: center;
-  font-size: var(--font-size-smi-8);
-  color: var(--color-white);
-  font-family: var(--font-jost);
+  font-size: 12.8px;
+  color: #fff;
+  font-family: Jost;
 }
